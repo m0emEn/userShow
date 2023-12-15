@@ -160,8 +160,10 @@ input[type="file"]{
     border-radius: 15px;
 }
 .userCard .userInfo{
-    padding: 25px;
-    
+    padding: 25px; 
+}
+.userCard .userInfo p{
+    word-wrap: break-word;
 }
 .userContainer{
     display: flex;
